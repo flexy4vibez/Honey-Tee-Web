@@ -13,17 +13,18 @@ body {
 
 /* Div 1 */
 .div1 {
-    background-color:yellowgreen;
     display:flex;
     justify-content:space-evenly;
 }
 
 .left1 {
-    
+    border:10px solid pink;
+    border-radius:20px;  
 }
 
 .right1 {
-    
+    border:10px solid pink;
+    border-radius:20px; 
 }
 
 .div1 h1, h2, h3 {
@@ -33,4 +34,10 @@ body {
 .div1 ul li {
     font-size:20px;
     font-weight:800;
+}
+
+.my_nav_bar {
+    position:sticky;
+    top:0px;
+    z-index:2;
 }
