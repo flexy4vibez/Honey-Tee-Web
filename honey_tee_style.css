@@ -1,0 +1,7 @@
+/* Nav Bar */
+.hov:hover {
+    border:1px solid pink;
+    border-radius:20px;
+    background-color:powderblue;
+}
+
