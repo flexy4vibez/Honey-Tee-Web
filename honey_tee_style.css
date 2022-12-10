@@ -5,13 +5,19 @@ body {
     
 }
 
+.my_nav_bar {
+    position:sticky;
+    top:0px;
+    z-index:2;
+}
+
 .hov:hover {
     border:1px solid pink;
     border-radius:20px;
     background-color:powderblue;
 }
 
-/* Div 1 */
+/* Div and Carousel */
 .div1 {
     display:flex;
     justify-content:space-evenly;
@@ -36,8 +42,4 @@ body {
     font-weight:800;
 }
 
-.my_nav_bar {
-    position:sticky;
-    top:0px;
-    z-index:2;
-}
+
