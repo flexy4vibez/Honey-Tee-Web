@@ -17,20 +17,15 @@ body {
     background-color:powderblue;
 }
 
-/* Div and Carousel */
+/* Div 1 and Carousel */
 .div1 {
     display:flex;
     justify-content:space-evenly;
 }
 
-.left1 {
+.left1, .right1, .carousel_div {
     border:10px solid pink;
     border-radius:20px;  
-}
-
-.right1 {
-    border:10px solid pink;
-    border-radius:20px; 
 }
 
 .div1 h1, h2, h3 {
