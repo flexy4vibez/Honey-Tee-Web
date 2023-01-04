@@ -1,0 +1,20 @@
+.body_background {
+    background-color:pink
+}
+
+.nav_enlarge {
+    padding-left:0px;
+    padding-right:0px;
+}
+
+.center_div
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.sticky_nav {
+    position:sticky;
+    top:0px;
+    z-index:4;
+}
