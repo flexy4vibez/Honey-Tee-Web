@@ -18,3 +18,32 @@
     top:0px;
     z-index:4;
 }
+
+.background_one {
+    background-image:url('background1_blur.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.background_two {
+    background-image:url('background2_sharp.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.empty_div1 {
+    height:120px;
+}
+
+.empty_div2 {
+    height:60px;
+}
+
+.extend_sides {
+    padding-left:0px;
+    padding-right:0px;
+}
+
+.rounded_carousel {
+    border-radius:30px;
+}
